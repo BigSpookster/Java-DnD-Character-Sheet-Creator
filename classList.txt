@@ -1,0 +1,101 @@
+12
+Barbarian	12
+4
+W	Greataxe	12	5	1
+W	Handaxe	6	60	4
+I	Explorer's Pack	1
+I	Gold Piece	15
+Bard	8
+5
+A	Leather Armor	11	null	F	1
+W	Dagger	4	60	2
+I	Musical Instrument	1
+I	Entertainer's Pack	1
+I	Gold Piece	19
+Cleric	8
+6
+A	Chain Shirt	13	2	F	1
+S	Shield	2	1
+W	Mace	6	5	1
+I	Holy Symbol	1
+I	Priest's Pack	1
+I	Gold Piece	7
+Druid	8
+7
+A	Leather Armor	11	null	F	1
+S	Shield	2	1
+W	Sickle	4	5	1
+W	Quarterstaff	6	5	1
+I	Explorer's Pack	1
+I	Herbalism Kit	1
+I	Gold Piece	9
+Fighter	10
+6
+A	Chain Mail	16	0	T	1
+W	Greatsword	12	5	1
+W	Flail	8	5	1
+W	Javelin	6	120	8
+I	Dungeoneer's Pack	1
+I	Gold Piece	4
+Monk	8
+5
+W	Spear	6	60	1
+W	Dagger	4	60	5
+I	Artisan's Tools	1
+I	Explorer's Pack	1
+I	Gold Piece	11
+Paladin	10
+7
+A	Chain Mail	16	0	T	1
+S	Shield	2	1
+W	Longsword	8	5	1
+W	Javelin	6	120	6
+I	Holy Symbol	1
+I	Priest's Pack	1
+I	Gold Piece	9
+Ranger	10
+9
+A	Studded Leather Armor	12	null	F	1
+W	Scimitar	6	5	1
+W	Shortsword	6	5	1
+W	Longbow	8	600	1
+I	Arrow	20
+I	Quiver	1
+I	Sprig of Mistletoe	1
+I	Explorer's Pack	1
+I	Gold Piece	7
+Rogue	8
+9
+A	Leather Armor	11	null	F	1
+W	Dagger	4	60	2
+W	Shortsword	6	5	1
+W	Shortbow	6	320	1
+I	Arrow	20
+I	Quiver	1
+I	Thieves' Tools	1
+I	Burglar's Pack	1
+I	Gold Piece	8
+Sorcerer	6
+5
+W	Spear	6	60	1
+W	Dagger	4	60	2
+I	Arcane Focus	1
+I	Dungeoneer's Pack	1
+I	Gold Piece	28
+Warlock	8
+7
+A	Leather Armor	11	null	F	1
+W	Sickle	4	5	1
+W	Dagger	4	60	2
+I	Arcane Focus	1
+I	Book of Occult Lore	1
+I	Scholar's Pack	1
+I	Gold Piece	15
+Wizard	6
+6
+W	Dagger	4	60	2
+W	Quarterstaff	6	5	1
+A	Robe	10	null	F	1
+I	Spellbook	1
+I	Scholar's Pack	1
+I	Gold Piece	5

@@ -1,0 +1,130 @@
+16
+Acolyte	Intelligence	Wisdom	Charisma
+6
+I	Calligrapher's Supplies	1
+I	Book of Prayers	1
+I	Holy Symbol	1
+I	Sheet of Parchment	10
+A	Robe	10	null	F	1
+I	Gold Piece	8
+Artisan	Strength	Dexterity	Intelligence
+4
+I	Artisan's Tools	1
+I	Pouch	2
+A	Traveler's Clothes	10	null	F	1
+I	Gold Piece	32
+Charlatan	Dexterity	Constitution	Charisma
+4
+I	Forgery Kit	1
+I	Costume	1
+I	Fine Clothes	1
+I	Gold Piece	15
+Criminal	Dexterity	Constitution	Intelligence
+6
+W	Dagger	4	60	2
+I	Thieves' Tools	1
+I	Crowbar	1
+I	Pouch	2
+A	Traveler's Clothes	10	null	F	1
+I	Gold Piece	16
+Entertainer	Strength	Dexterity	Charisma
+6
+I	Musical Instrument	1
+I	Costume	2
+I	Mirror	1
+I	Perfume	1
+A	Traveler's Clothes	10	null	F	1
+I	Gold Piece	11
+Farmer	Strength	Constitution	Wisdom
+6
+W	Sickle	4	5	1
+I	Carpenter's Tools	1
+I	Healer's Kit	1
+I	Iron Pot	1
+I	Shovel	1
+I	Gold Piece	30
+Guard	Strength	Intelligence	Wisdom
+9
+W	Spear	6	60	1
+W	Light Crossbow	8	320	1
+I	Bolt	20
+I	Gaming Set	1
+I	Hooded Lantern	1
+I	Manacles	1
+I	Quiver	1
+A	Traveler's Clothes	10	null	F	1
+I	Gold Piece	12
+Guide	Dexterity	Constitution	Wisdom
+8
+W	Shortbow	6	320	1
+I	Arrow	20
+I	Cartographer's Tools	1
+I	Bedroll	1
+I	Quiver	1
+I	Tent	1
+A	Traveler's Clothes	10	null	F	1
+I	Gold Piece	3
+Hermit	Constitution	Wisdom	Charisma
+8
+W	Quarterstaff	6	5	1
+I	Herbalism Kit	1
+I	Bedroll	1
+I	Philosophy Book	1
+I	Lamp	1
+I	Oil Flask	3
+A	Traveler's Clothes	10	null	F	1
+I	Gold Piece	16
+Merchant	Constitution	Intelligence	Charisma
+4
+I	Navigator's Tools	1
+I	Pouch	2
+A	Traveler's Clothes	10	null	F	1
+I	Gold Piece	22
+Noble	Strength	Intelligence	Charisma
+4
+I	Gaming Set	1
+A	Fine Clothes	10	null	F	1
+I	Perfume	1
+I	Gold Piece	29
+Sage	Constitution	Intelligence	Wisdom
+6
+W	Quarterstaff	6	5	1
+I	Calligrapher's Supplies	1
+I	History Book	1
+I	Sheet of Parchment	8
+A	Robe	10	null	F	1
+I	Gold Piece	8
+Sailor	Strength	Dexterity	Wisdom
+5
+W	Dagger	4	60	1
+I	Navigator's Tools	1
+I	Rope	1
+A	Traveler's Clothes	10	null	F	1
+I	Gold Piece	20
+Scribe	Dexterity	Intelligence	Wisdom
+6
+I	Calligrapher's Supplies	1
+A	Fine Clothes	10	null	F	1
+I	Lamp	1
+I	Oil Flask	3
+I	Sheet of Parchment	12
+I	Gold Piece	23
+Soldier	Strength	Dexterity	Constitution
+8
+W	Spear	6	60	1
+W	Shortbow	6	320	1
+I	Arrow	20
+I	Gaming Set	1
+I	Healer's Kit	1
+I	Quiver	1
+A	Traveler's Clothes	10	null	F	1
+I	Gold Piece	14
+Wayfarer	Dexterity	Wisdom	Charisma
+7
+W	Dagger	4	60	2
+I	Thieves' Tools	1
+I	Gaming Set	1
+I	Bedroll	1
+I	Pouch	2
+A	Traveler's Clothes	10	null	F	1
+I	Gold Piece	16
